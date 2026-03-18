@@ -1,0 +1,37 @@
+[
+  {
+    "id": "email",
+    "type": "email",
+    "label": "nainghtet123@gmail.com",
+    "encodedValue": "JmV5YQRkYQV2YQV3YQH2YQxfZwxfAGtfAmNfZFjjYQLfAGRfZGZfZmNfZwNfAGDfZGZfAmRfAwNfBGZfBGAq",
+    "snippet": "<span class=\"cg-contact\"\n      data-cg-type=\"email\"\n      data-cg-value=\"JmV5YQRkYQV2YQV3YQH2YQxfZwxfAGtfAmNfZFjjYQLfAGRfZGZfZmNfZwNfAGDfZGZfAmRfAwNfBGZfBGAq\"\n      data-cg-label=\"nainghtet123@gmail.com\"\n      tabindex=\"0\"\n      aria-label=\"Protected contact — hover to reveal\">\n  [hover to reveal]\n</span>"
+  },
+  {
+    "id": "github",
+    "type": "link",
+    "label": "GitHub",
+    "encodedValue": "JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfBQHfBQxfAmNfBGZfAvj4YQxmYQVlYQD4YQRlYQpjYQV4YQxmYQt0YQxkYQxkYQVjYQNfZGtfZwVfAGVfZGNfZPj0BFj4AI0=",
+    "snippet": "<span class=\"cg-contact\"\n      data-cg-type=\"link\"\n      data-cg-value=\"JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfBQHfBQxfAmNfBGZfAvj4YQxmYQVlYQD4YQRlYQpjYQV4YQxmYQt0YQxkYQxkYQVjYQNfZGtfZwVfAGVfZGNfZPj0BFj4AI0=\"\n      data-cg-label=\"GitHub\"\n      tabindex=\"0\"\n      aria-label=\"Protected contact — hover to reveal\">\n  [hover to reveal]\n</span>"
+  },
+  {
+    "id": "linkedin",
+    "type": "link",
+    "label": "LinkedIn",
+    "encodedValue": "JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfBGDfBQxfBGVfBGDfZwVfZGDfZwLfZwpfZGRmYQVfAvj1ZPjlBFj4BFj5ZvjlAvjlBFjkZFjlAvjlAlj1Avj5YQV5YQH4YQpjKD==",
+    "snippet": "<span class=\"cg-contact\"\n      data-cg-type=\"link\"\n      data-cg-value=\"JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfBGDfBQxfBGVfBGDfZwVfZGDfZwLfZwpfZGRmYQVfAvj1ZPjlBFj4BFj5ZvjlAvjlBFjkZFjlAvjlAlj1Avj5YQV5YQH4YQpjKD==\"\n      data-cg-label=\"LinkedIn\"\n      tabindex=\"0\"\n      aria-label=\"Protected contact — hover to reveal\">\n  [hover to reveal]\n</span>"
+  },
+  {
+    "id": "twitter",
+    "type": "link",
+    "label": "Twitter",
+    "encodedValue": "JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfAmNfAmRfBGRfAwHfAljkAFjkYQxkYQLjYQR0YQDfZGRlYQRlAPj4ZFj5ZFj5ZFjlZPjmAPj3YQpjYQRjBPj4ZPj5ZljkZQtfAFjmYQSq",
+    "snippet": "<span class=\"cg-contact\"\n      data-cg-type=\"link\"\n      data-cg-value=\"JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfAmNfAmRfBGRfAwHfAljkAFjkYQxkYQLjYQR0YQDfZGRlYQRlAPj4ZFj5ZFj5ZFjlZPjmAPj3YQpjYQRjBPj4ZPj5ZljkZQtfAFjmYQSq\"\n      data-cg-label=\"Twitter\"\n      tabindex=\"0\"\n      aria-label=\"Protected contact — hover to reveal\">\n  [hover to reveal]\n</span>"
+  },
+  {
+    "id": "website",
+    "type": "link",
+    "label": "codingjackking.github.io",
+    "encodedValue": "JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfBQRfBGHfBQLfBGVfZwxfZGZfZwHfZwNfAwNfZGNfZvj1APj5Zvj4AljlBPj4ZvjlAvjmZPjlAljjYQLkYQp5YQNfAQuq",
+    "snippet": "<span class=\"cg-contact\"\n      data-cg-type=\"link\"\n      data-cg-value=\"JmV3YQZjYQpfAFj0APj5ZFj3ZPjkZGVfBQRfBGHfBQLfBGVfZwxfZGZfZwHfZwNfAwNfZGNfZvj1APj5Zvj4AljlBPj4ZvjlAvjmZPjlAljjYQLkYQp5YQNfAQuq\"\n      data-cg-label=\"codingjackking.github.io\"\n      tabindex=\"0\"\n      aria-label=\"Protected contact — hover to reveal\">\n  [hover to reveal]\n</span>"
+  }
+]

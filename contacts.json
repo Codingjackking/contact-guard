@@ -1,0 +1,32 @@
+[
+  {
+    "id": "email",
+    "type": "email",
+    "value": "nainghtet123@gmail.com",
+    "label": "nainghtet123@gmail.com"
+  },
+  {
+    "id": "github",
+    "type": "link",
+    "value": "https://github.com/Codingjackking",
+    "label": "GitHub"
+  },
+  {
+    "id": "linkedin",
+    "type": "link",
+    "value": "https://linkedin.com/in/nainghtet",
+    "label": "LinkedIn"
+  },
+  {
+    "id": "twitter",
+    "type": "link",
+    "value": "https://twitter.com/NaingHt33143733",
+    "label": "Twitter"
+  },
+  {
+    "id": "website",
+    "type": "link",
+    "value": "https://codingjackking.github.io",
+    "label": "codingjackking.github.io"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "contact-guard",
+  "version": "1.0.0",
+  "description": "Multi-layer obfuscation for protecting emails and links on static sites from scrapers.",
+  "author": "Naing Htet",
+  "license": "MIT",
+  "main": "dist/contact-guard.cjs.js",
+  "module": "dist/contact-guard.esm.js",
+  "browser": "dist/contact-guard.umd.js",
+  "bin": {
+    "contact-guard": "bin/cli.js"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/contact-guard.esm.js",
+      "require": "./dist/contact-guard.cjs.js",
+      "browser": "./dist/contact-guard.umd.js"
+    }
+  },
+  "files": [
+    "dist/",
+    "bin/",
+    "src/",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "node build.js",
+    "encode": "node bin/cli.js encode",
+    "decode": "node bin/cli.js decode"
+  },
+  "keywords": [
+    "email-protection",
+    "anti-scraping",
+    "obfuscation",
+    "jekyll",
+    "static-site"
+  ],
+  "devDependencies": {}
+}
